@@ -57,6 +57,10 @@
 
 <img width="1920" height="1080" alt="Screenshot (128)" src="https://github.com/user-attachments/assets/9fc62455-100d-4e89-a959-e3cd9bad9f82" />
 
+<img width="1920" height="1080" alt="Screenshot (129)" src="https://github.com/user-attachments/assets/77519cc1-1b35-4cd1-b2c7-1426f99a8d83" />
+
+<img width="1920" height="1080" alt="Screenshot (130)" src="https://github.com/user-attachments/assets/d2ee4360-45ea-49f7-b8af-e57bdeb2ddea" />
+
 ### Name:V.Pavithira
 ### Register Number:212225040297 
 
