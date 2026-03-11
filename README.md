@@ -53,13 +53,13 @@
 
 
 ## Output:
-<img width="1920" height="1080" alt="Screenshot (127)" src="https://github.com/user-attachments/assets/b6e4d406-1a30-4356-93fc-8eebe93189fe" />
+<img width="1920" height="1080" alt="Screenshot (132)" src="https://github.com/user-attachments/assets/b174ea03-2acc-4eb6-b23e-942274a6b676" />
 
-<img width="1920" height="1080" alt="Screenshot (128)" src="https://github.com/user-attachments/assets/9fc62455-100d-4e89-a959-e3cd9bad9f82" />
+<img width="1920" height="1080" alt="Screenshot (133)" src="https://github.com/user-attachments/assets/0c225ab3-91c1-4d23-929a-0e523a437839" />
 
-<img width="1920" height="1080" alt="Screenshot (129)" src="https://github.com/user-attachments/assets/77519cc1-1b35-4cd1-b2c7-1426f99a8d83" />
+<img width="1920" height="1080" alt="Screenshot (134)" src="https://github.com/user-attachments/assets/edd188f8-b43d-428a-aee6-a72c466a862a" />
 
-<img width="1920" height="1080" alt="Screenshot (130)" src="https://github.com/user-attachments/assets/d2ee4360-45ea-49f7-b8af-e57bdeb2ddea" />
+<img width="1920" height="1080" alt="Screenshot (135)" src="https://github.com/user-attachments/assets/d034aaa3-a4db-4919-b869-5e69f43d4eb2" />
 
 ### Name:V.Pavithira
 ### Register Number:212225040297 
